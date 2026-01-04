@@ -1,0 +1,5 @@
+name,price,damage,bullet_type
+普通子弹,0,10,normal
+激光,500,20,laser
+导弹,1000,30,missile
+超级激光,2000,25,super_laser
